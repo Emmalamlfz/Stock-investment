@@ -1,8 +1,10 @@
 # Stock-investment
 This is a School Project from NUS.
-For furthur details can been seen from below reports:
-[Final Report](https://github.com/Emmalamlfz/Stock-investment/blob/main/Stock%20Investment%20Final%20Report.pdf)
 
+For furthur details can been seen from below reports:
+[Presentation](https://github.com/Emmalamlfz/Stock-investment/blob/main/Stock%20investment%20Customization.pdf)
+
+[Final Report](https://github.com/Emmalamlfz/Stock-investment/blob/main/Stock%20Investment%20Final%20Report.pdf)
 
 
 ## Business Problem of the Problem

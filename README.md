@@ -1,5 +1,9 @@
 # Stock-investment
 This is a School Project from NUS.
+For furthur details can been seen from below reports:
+[Final Report](https://github.com/Emmalamlfz/Stock-investment/blob/main/Stock%20Investment%20Final%20Report.pdf)
+
+
 
 ## Business Problem of the Problem
 * Making informed investment decisions by accurate prediction on stock prices and Buy-and-sell-point based on rational hypotheses.
@@ -10,8 +14,5 @@ This is a School Project from NUS.
 * Formulate customer personas. Utilize a range of optimization algorithms and portfolio analysis tools (goal programming etc.) to model different asset allocation strategies and optimize portfolios for risk tolerance, investment horizon, and return objectives based on clients’ requirements.
 
 ![image](https://github.com/Emmalamlfz/Stock-investment/assets/110097027/4fb34de6-bc37-46fa-b913-be0d7c3797fd)
-
-For furthur details can been seen from below reports:
-[Final Report](https://github.com/Emmalamlfz/Stock-investment/blob/main/Stock%20Investment%20Final%20Report.pdf)
 
 

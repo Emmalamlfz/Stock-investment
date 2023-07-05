@@ -8,7 +8,7 @@ For furthur details can been seen from below reports:
 [Final Report](https://github.com/Emmalamlfz/Stock-investment/blob/main/Stock%20Investment%20Final%20Report.pdf)
 
 
-## Business Problem of the Problem
+## Business Problem
 * Making informed investment decisions by accurate prediction on stock prices and Buy-and-sell-point based on rational hypotheses.
 * Provide customized asset allocation optimization solutions for clients with different investment preferences. By tailoring our services to each client's unique needs and goals, we can help them achieve long-term financial success.
 
